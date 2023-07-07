@@ -1,0 +1,72 @@
+{
+    "Ahmad Alavi": {
+        "first_name": "Ahmad",
+        "last_name": "Alavi",
+        "phone": "5236325",
+        "address": "",
+        "full_name": "Ahmad Alavi"
+    },
+    "Hio Jio": {
+        "first_name": "Hio",
+        "last_name": "Jio",
+        "phone": "0011223344",
+        "address": "",
+        "full_name": "Hio Jio"
+    },
+    "John Miles": {
+        "first_name": "John",
+        "last_name": "Miles",
+        "phone": "5238855",
+        "address": "",
+        "full_name": "John Miles"
+    },
+    "Nila Nora Mousavi": {
+        "first_name": "Nila Nora",
+        "last_name": "Mousavi",
+        "phone": "5232323",
+        "address": "",
+        "full_name": "Nila Nora Mousavi"
+    },
+    "Ray Mound": {
+        "first_name": "Ray",
+        "last_name": "Mound",
+        "phone": "7845912",
+        "address": "",
+        "full_name": "Ray Mound"
+    },
+    "Sed Mam Rez Mou": {
+        "first_name": "Sed Mam Rez",
+        "last_name": "Mou",
+        "phone": "",
+        "address": "",
+        "full_name": "Sed Mam Rez Mou"
+    },
+    "Ray Charles": {
+        "first_name": "Ray",
+        "last_name": "Charles",
+        "phone": "",
+        "address": "2055 Free way",
+        "full_name": "Ray Charles"
+    },
+    "Kelly ": {
+        "first_name": "Kelly",
+        "last_name": "",
+        "phone": "",
+        "address": "5522 Nicola way",
+        "full_name": "Kelly "
+    },
+    "Luc ": {
+        "first_name": "Luc",
+        "last_name": "",
+        "phone": "23332222",
+        "address": "",
+        "full_name": "Luc "
+    },
+    "Mary ": {
+        "first_name": "Mary",
+        "last_name": "",
+        "phone": "phone_number",
+        "address": "",
+        "full_name": "Mary "
+    }
+}
